@@ -1,13 +1,9 @@
 Solución de la tarea solicitada en clase haciendo uso de la función sucesora y antecesora.
 
 def sucesora(n):
-    #s(n)=n+1
-
     return n+1
-
+    
 def antecesora(n):
-    #a(n)=n-1
-
     return n-1
 
 Implementacion de operaciones:
